@@ -261,6 +261,7 @@ class CustomizedDBMS
             System.out.println("14 : Terminate the DBMS");
             System.out.println("----------------------------------------------------------");
 
+            System.out.print("Your choice : ");
             iOption = sobj.nextInt();
 
             switch (iOption)
